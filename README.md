@@ -1,6 +1,6 @@
 # RSS Reader to HTML Converter
 
-This is a Java program that takes an XML RSS (version 2.0) feed from a given URL and converts it into an HTML webpage. The program parses the RSS feed and extracts information such as the channel title, description, and individual news items, including their publication date, source, and title or description.
+This is a Java program that takes an XML RSS (version 2.0) feed from a given URL and converts it into an HTML webpage. The program parses the RSS feed and extracts information such as the channel title, description, and individual news items, including their publication date, source, and title or description. This project was completed as a part of The Ohio State University's CSE 2221: Software 1 Course.
 
 ## Dependencies
 
