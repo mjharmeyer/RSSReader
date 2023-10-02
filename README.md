@@ -60,12 +60,3 @@ The generated HTML output follows this structure:
 </html>
 ```
 
-## Note
-
-- Make sure you have the necessary permissions to access the RSS feed URL you provide.
-
-- The program is designed to handle RSS 2.0 feeds. It may not work correctly with other versions of RSS or non-standard XML formats.
-
-- The generated HTML file (`RSSOutput.html`) will be located in the project directory.
-
-Enjoy using this RSS to HTML converter! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or contribute to the project.
